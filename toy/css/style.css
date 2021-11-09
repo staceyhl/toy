@@ -1,0 +1,10 @@
+div {
+    height: 200px;
+    width: 200px;
+    background-color: rbga(0,0,0,0);
+    cursor: url("../images/mouse_resized.png"), auto;
+}
+
+#overlay {
+    position: fixed;
+}
